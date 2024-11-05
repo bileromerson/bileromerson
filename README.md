@@ -10,5 +10,5 @@ I Have 14 Yers and I am a furry :3
 ---
 # programming languages:
 ### C++ / C# / Python
-## learning?
+## learning
 ### JavaScript 
