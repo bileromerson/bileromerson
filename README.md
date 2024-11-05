@@ -9,4 +9,6 @@ I Have 14 Yers and I am a furry :3
 * Hacking RED and BLUE team
 ---
 # programming languages:
-## C++ / C# / Python / JavaScript 
+### C++ / C# / Python
+## learning?
+### JavaScript 
