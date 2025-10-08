@@ -21,7 +21,7 @@
     <td><img src="https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=c#&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/markdown-%2320232a.svg?style=for-the-badge&logo=markdown&logoColor=white"></td>
 </table>
-<table style="border:0px;">
+<table>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bileromerson&layout=compact&count_private=true&bg_color=2C2F33&text_color=00FFFF&title_color=FFA500&card_width=400" alt=""></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=bileromerson&count_private=true&bg_color=2C2F33&text_color=00FFFF&title_color=FFA500&show_icons=true&icon_color=FFD700&card_width=400" alt=""></td>
 </table>
